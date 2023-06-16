@@ -1,3 +1,11 @@
 Me llamo Jessica Alejandra Niño Cardona, tengo 20 años 
 Estoy estudiando ingeniería mecatrónica 
 Me gusta leer
+
+La materias que más me han gustado en lo que llevo de la carrera son:
+Programación
+Microcontroladores
+Ingeniería de control I
+Electrónica I y II
+Robótica
+Control de calidad
